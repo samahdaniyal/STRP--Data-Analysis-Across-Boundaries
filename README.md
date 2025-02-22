@@ -2,7 +2,7 @@
 
 ## Overview
 
-**Data Analysis Across Boundaries** is a data-driven project aimed at supporting policymakers in Muslim-majority countries by providing insightful, interactive visualizations based on global datasets. This project was developed as part of the **Summer Tehqiq Research Program (STRP-1)** by the **Graduate School Curation Program - Habib University**. [Link to Our Dashboard]([URL](https://app.powerbi.com/view?r=eyJrIjoiYzBjOTE1NTQtOTExNS00NDdlLWI1YzMtM2VmN2VmOGQ3MWJiIiwidCI6IjcwYzM1YWE0LWJlZDQtNDhmMi05NWM5LWUzYmEyZjdjMDM3YSIsImMiOjl9))
+**Data Analysis Across Boundaries** is a data-driven project aimed at supporting policymakers in Muslim-majority countries by providing insightful, interactive visualizations based on global datasets. This project was developed as part of the **Summer Tehqiq Research Program (STRP-1)** by the **Graduate School Curation Program - Habib University**. [Link to Our Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzBjOTE1NTQtOTExNS00NDdlLWI1YzMtM2VmN2VmOGQ3MWJiIiwidCI6IjcwYzM1YWE0LWJlZDQtNDhmMi05NWM5LWUzYmEyZjdjMDM3YSIsImMiOjl9)
 
 ## Project Goals
 
